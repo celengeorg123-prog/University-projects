@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20231010-0237-Continuous"
+	Name="LAPTOP-GVOMGCVQ"
+	Generator="ctest-3.27.6"
+	CompilerName="C:/msys64/mingw64/bin/g++.exe"
+	CompilerVersion="12.2.0"
+	OSName="Windows"
+	Hostname="LAPTOP-GVOMGCVQ"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="21341"
+	TotalPhysicalMemory="12125"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2400"
+	>
+	<Build>
+		<StartDateTime>Oct 09 21:37 Hora est. Pac[NON-UTF-8-BYTE-0xED]fico, Sudam[NON-UTF-8-BYTE-0xE9]rica</StartDateTime>
+		<StartBuildTime>1696905478</StartBuildTime>
+		<BuildCommand>C:\bin\cmake.exe --build . --config "Release"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Oct 09 21:37 Hora est. Pac[NON-UTF-8-BYTE-0xED]fico, Sudam[NON-UTF-8-BYTE-0xE9]rica</EndDateTime>
+		<EndBuildTime>1696905478</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

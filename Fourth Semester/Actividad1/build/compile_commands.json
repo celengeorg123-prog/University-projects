@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/project/ProjectUMNGIIISemestre/Actividad1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Ordenar_inter -g -o Custom\\Ordenar_inter\\CMakeFiles\\Ordenar_inter.dir\\Ordenar_inter.cpp.obj -c C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Custom\\Ordenar_inter\\Ordenar_inter.cpp",
+  "file": "C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Custom\\Ordenar_inter\\Ordenar_inter.cpp",
+  "output": "Custom\\Ordenar_inter\\CMakeFiles\\Ordenar_inter.dir\\Ordenar_inter.cpp.obj"
+},
+{
+  "directory": "C:/project/ProjectUMNGIIISemestre/Actividad1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Rand_ag -g -o Custom\\Rand_ag\\CMakeFiles\\Rand_ag.dir\\Rand_ag.cpp.obj -c C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Custom\\Rand_ag\\Rand_ag.cpp",
+  "file": "C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Custom\\Rand_ag\\Rand_ag.cpp",
+  "output": "Custom\\Rand_ag\\CMakeFiles\\Rand_ag.dir\\Rand_ag.cpp.obj"
+},
+{
+  "directory": "C:/project/ProjectUMNGIIISemestre/Actividad1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Ordenar_inter -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Rand_ag -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Minimum -g -o Ejercicio1\\Test_insert_sort\\CMakeFiles\\Insert_sort.dir\\Test.cpp.obj -c C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Ejercicio1\\Test_insert_sort\\Test.cpp",
+  "file": "C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Ejercicio1\\Test_insert_sort\\Test.cpp",
+  "output": "Ejercicio1\\Test_insert_sort\\CMakeFiles\\Insert_sort.dir\\Test.cpp.obj"
+},
+{
+  "directory": "C:/project/ProjectUMNGIIISemestre/Actividad1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Ordenar_selec -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Rand_ag -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Minimum -g -o Ejercicio1\\Test_selec_sort\\CMakeFiles\\Selec_sort.dir\\Test.cpp.obj -c C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Ejercicio1\\Test_selec_sort\\Test.cpp",
+  "file": "C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Ejercicio1\\Test_selec_sort\\Test.cpp",
+  "output": "Ejercicio1\\Test_selec_sort\\CMakeFiles\\Selec_sort.dir\\Test.cpp.obj"
+},
+{
+  "directory": "C:/project/ProjectUMNGIIISemestre/Actividad1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/project/ProjectUMNGIIISemestre/Actividad1/Custom/Ordenar_selec -g -o Ejercicio2\\CMakeFiles\\Test.dir\\Test.cpp.obj -c C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Ejercicio2\\Test.cpp",
+  "file": "C:\\project\\ProjectUMNGIIISemestre\\Actividad1\\Ejercicio2\\Test.cpp",
+  "output": "Ejercicio2\\CMakeFiles\\Test.dir\\Test.cpp.obj"
+}
+]
